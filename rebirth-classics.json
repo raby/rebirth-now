@@ -1,624 +1,639 @@
 {
  "station": "Rebirth Classics",
  "slug": "rebirth-classics",
- "updated": "2026-10-26T22:00:17+00:00",
+ "updated": "2026-10-26T22:09:39+00:00",
  "on_air": true,
  "live": null,
  "items": [
   {
-   "at": "2026-10-26T21:59:30+00:00",
-   "seconds": 201.9,
-   "title": "Rainy Lights",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-26T22:02:52+00:00",
-   "seconds": 237.9,
-   "title": "Neon Dreams",
-   "artist": "Ruby Lane"
-  },
-  {
-   "at": "2026-10-26T22:06:49+00:00",
-   "seconds": 236.9,
-   "title": "Saturday Tonight",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-26T22:10:46+00:00",
+   "at": "2026-10-26T22:09:22+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-26T22:13:58+00:00",
+   "at": "2026-10-26T22:12:34+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-26T22:17:08+00:00",
+   "at": "2026-10-26T22:15:43+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-26T22:20:38+00:00",
+   "at": "2026-10-26T22:19:13+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-26T22:23:42+00:00",
+   "at": "2026-10-26T22:22:17+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-26T22:27:42+00:00",
+   "at": "2026-10-26T22:26:17+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-26T22:31:40+00:00",
+   "at": "2026-10-26T22:30:15+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-26T22:35:43+00:00",
+   "at": "2026-10-26T22:34:18+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-26T22:39:13+00:00",
+   "at": "2026-10-26T22:37:49+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-26T22:42:13+00:00",
+   "at": "2026-10-26T22:40:49+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-26T22:45:35+00:00",
+   "at": "2026-10-26T22:44:11+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-26T22:49:33+00:00",
+   "at": "2026-10-26T22:48:08+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-26T22:53:30+00:00",
+   "at": "2026-10-26T22:52:05+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-26T22:56:42+00:00",
+   "at": "2026-10-26T22:55:17+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-26T22:59:52+00:00",
+   "at": "2026-10-26T22:58:27+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-26T23:03:22+00:00",
+   "at": "2026-10-26T23:01:57+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-26T23:06:26+00:00",
+   "at": "2026-10-26T23:05:01+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-26T23:10:25+00:00",
+   "at": "2026-10-26T23:09:01+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-26T23:14:23+00:00",
+   "at": "2026-10-26T23:12:59+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-26T23:18:26+00:00",
+   "at": "2026-10-26T23:17:02+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-26T23:21:57+00:00",
+   "at": "2026-10-26T23:20:32+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-26T23:24:57+00:00",
+   "at": "2026-10-26T23:23:32+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-26T23:28:19+00:00",
+   "at": "2026-10-26T23:26:54+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-26T23:32:17+00:00",
+   "at": "2026-10-26T23:30:52+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-26T23:36:14+00:00",
+   "at": "2026-10-26T23:34:49+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-26T23:39:25+00:00",
+   "at": "2026-10-26T23:38:01+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-26T23:42:35+00:00",
+   "at": "2026-10-26T23:41:11+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-26T23:46:05+00:00",
+   "at": "2026-10-26T23:44:41+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-26T23:49:09+00:00",
+   "at": "2026-10-26T23:47:45+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-26T23:53:09+00:00",
+   "at": "2026-10-26T23:51:44+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-26T23:57:07+00:00",
+   "at": "2026-10-26T23:55:42+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T00:01:10+00:00",
+   "at": "2026-10-26T23:59:45+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T00:04:41+00:00",
+   "at": "2026-10-27T00:03:16+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T00:07:41+00:00",
+   "at": "2026-10-27T00:06:16+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T00:11:02+00:00",
+   "at": "2026-10-27T00:09:38+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T00:15:00+00:00",
+   "at": "2026-10-27T00:13:36+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T00:18:57+00:00",
+   "at": "2026-10-27T00:17:33+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T00:22:09+00:00",
+   "at": "2026-10-27T00:20:45+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-27T00:25:19+00:00",
+   "at": "2026-10-27T00:23:54+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-27T00:28:49+00:00",
+   "at": "2026-10-27T00:27:24+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T00:31:53+00:00",
+   "at": "2026-10-27T00:30:28+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-27T00:35:53+00:00",
+   "at": "2026-10-27T00:34:28+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T00:39:51+00:00",
+   "at": "2026-10-27T00:38:26+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T00:43:53+00:00",
+   "at": "2026-10-27T00:42:29+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T00:47:24+00:00",
+   "at": "2026-10-27T00:46:00+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T00:50:24+00:00",
+   "at": "2026-10-27T00:49:00+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T00:53:46+00:00",
+   "at": "2026-10-27T00:52:22+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T00:57:44+00:00",
+   "at": "2026-10-27T00:56:19+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T01:01:41+00:00",
+   "at": "2026-10-27T01:00:16+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T01:04:53+00:00",
+   "at": "2026-10-27T01:03:28+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-27T01:08:03+00:00",
+   "at": "2026-10-27T01:06:38+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-27T01:11:33+00:00",
+   "at": "2026-10-27T01:10:08+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T01:14:36+00:00",
+   "at": "2026-10-27T01:13:12+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-27T01:18:36+00:00",
+   "at": "2026-10-27T01:17:12+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T01:22:34+00:00",
+   "at": "2026-10-27T01:21:10+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T01:26:37+00:00",
+   "at": "2026-10-27T01:25:12+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T01:30:08+00:00",
+   "at": "2026-10-27T01:28:43+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T01:33:08+00:00",
+   "at": "2026-10-27T01:31:43+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T01:36:30+00:00",
+   "at": "2026-10-27T01:35:05+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T01:40:28+00:00",
+   "at": "2026-10-27T01:39:03+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T01:44:25+00:00",
+   "at": "2026-10-27T01:43:00+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T01:47:36+00:00",
+   "at": "2026-10-27T01:46:12+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-27T01:50:46+00:00",
+   "at": "2026-10-27T01:49:22+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-27T01:54:16+00:00",
+   "at": "2026-10-27T01:52:52+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T01:57:20+00:00",
+   "at": "2026-10-27T01:55:55+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-27T02:01:20+00:00",
+   "at": "2026-10-27T01:59:55+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T02:05:18+00:00",
+   "at": "2026-10-27T02:03:53+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T02:09:21+00:00",
+   "at": "2026-10-27T02:07:56+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T02:12:52+00:00",
+   "at": "2026-10-27T02:11:27+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T02:15:52+00:00",
+   "at": "2026-10-27T02:14:27+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T02:19:13+00:00",
+   "at": "2026-10-27T02:17:49+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T02:23:11+00:00",
+   "at": "2026-10-27T02:21:47+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T02:27:08+00:00",
+   "at": "2026-10-27T02:25:44+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T02:30:20+00:00",
+   "at": "2026-10-27T02:28:55+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-27T02:33:30+00:00",
+   "at": "2026-10-27T02:32:05+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-27T02:37:00+00:00",
+   "at": "2026-10-27T02:35:35+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T02:40:04+00:00",
+   "at": "2026-10-27T02:38:39+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-27T02:44:04+00:00",
+   "at": "2026-10-27T02:42:39+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T02:48:02+00:00",
+   "at": "2026-10-27T02:46:37+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T02:52:04+00:00",
+   "at": "2026-10-27T02:50:40+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T02:55:35+00:00",
+   "at": "2026-10-27T02:54:11+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T02:58:35+00:00",
+   "at": "2026-10-27T02:57:11+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T03:01:57+00:00",
+   "at": "2026-10-27T03:00:32+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T03:05:55+00:00",
+   "at": "2026-10-27T03:04:30+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T03:09:52+00:00",
+   "at": "2026-10-27T03:08:27+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T03:13:04+00:00",
+   "at": "2026-10-27T03:11:39+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-27T03:16:14+00:00",
+   "at": "2026-10-27T03:14:49+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
   },
   {
-   "at": "2026-10-27T03:19:43+00:00",
+   "at": "2026-10-27T03:18:19+00:00",
    "seconds": 183.9,
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T03:22:47+00:00",
+   "at": "2026-10-27T03:21:23+00:00",
    "seconds": 239.9,
    "title": "Velvet Groove",
    "artist": "Johnny Arden"
   },
   {
-   "at": "2026-10-27T03:26:47+00:00",
+   "at": "2026-10-27T03:25:23+00:00",
    "seconds": 237.9,
    "title": "Velvet Train",
    "artist": "Northern Lights Orchestra"
   },
   {
-   "at": "2026-10-27T03:30:45+00:00",
+   "at": "2026-10-27T03:29:21+00:00",
    "seconds": 242.9,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T03:34:48+00:00",
+   "at": "2026-10-27T03:33:23+00:00",
    "seconds": 210.9,
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T03:38:19+00:00",
+   "at": "2026-10-27T03:36:54+00:00",
    "seconds": 179.9,
    "title": "Rainy Tonight",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T03:41:19+00:00",
+   "at": "2026-10-27T03:39:54+00:00",
    "seconds": 201.9,
    "title": "Rainy Lights",
    "artist": "Clara Vance"
   },
   {
-   "at": "2026-10-27T03:44:41+00:00",
+   "at": "2026-10-27T03:43:16+00:00",
    "seconds": 237.9,
    "title": "Neon Dreams",
    "artist": "Ruby Lane"
   },
   {
-   "at": "2026-10-27T03:48:39+00:00",
+   "at": "2026-10-27T03:47:14+00:00",
    "seconds": 236.9,
    "title": "Saturday Tonight",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T03:52:35+00:00",
+   "at": "2026-10-27T03:51:11+00:00",
    "seconds": 191.9,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
   },
   {
-   "at": "2026-10-27T03:55:47+00:00",
+   "at": "2026-10-27T03:54:23+00:00",
    "seconds": 189.9,
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
   },
   {
-   "at": "2026-10-27T03:58:57+00:00",
+   "at": "2026-10-27T03:57:33+00:00",
    "seconds": 209.9,
    "title": "Summer Dreams",
    "artist": "The Satellites"
+  },
+  {
+   "at": "2026-10-27T04:01:03+00:00",
+   "seconds": 183.9,
+   "title": "Paradise Dreams",
+   "artist": "Northern Lights Orchestra"
+  },
+  {
+   "at": "2026-10-27T04:04:06+00:00",
+   "seconds": 239.9,
+   "title": "Velvet Groove",
+   "artist": "Johnny Arden"
+  },
+  {
+   "at": "2026-10-27T04:08:06+00:00",
+   "seconds": 237.9,
+   "title": "Velvet Train",
+   "artist": "Northern Lights Orchestra"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-26T22:07:06+00:00",
+   "title": "Saturday Tonight",
+   "artist": "The Night Shift"
+  },
+  {
+   "at": "2026-10-26T22:05:20+00:00",
+   "title": "Neon Dreams",
+   "artist": "Ruby Lane"
+  },
+  {
+   "at": "2026-10-26T21:59:30+00:00",
+   "title": "Rainy Lights",
+   "artist": "Clara Vance"
+  },
   {
    "at": "2026-10-26T21:58:13+00:00",
    "title": "Rainy Tonight",
@@ -653,21 +668,6 @@
    "at": "2026-10-26T21:36:20+00:00",
    "title": "Paradise Dreams",
    "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-26T21:34:31+00:00",
-   "title": "Summer Dreams",
-   "artist": "The Satellites"
-  },
-  {
-   "at": "2026-10-26T21:29:49+00:00",
-   "title": "Highway Tonight",
-   "artist": "The Velvet Hours"
-  },
-  {
-   "at": "2026-10-26T21:28:18+00:00",
-   "title": "Heartbeat Again",
-   "artist": "The Night Shift"
   }
  ]
 }
