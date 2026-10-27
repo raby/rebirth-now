@@ -7,6 +7,10 @@
   {
    "name": "New station",
    "slug": "new-station"
+  },
+  {
+   "name": "Digital Bluebird",
+   "slug": "digital-bluebird"
   }
  ]
 }
