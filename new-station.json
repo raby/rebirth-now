@@ -1,16 +1,10 @@
 {
  "station": "New station",
  "slug": "new-station",
- "updated": "2026-10-27T11:16:06+00:00",
+ "updated": "2026-10-27T11:18:28+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-10-27T11:16:08+00:00",
-   "seconds": 142.0,
-   "title": "Saturday Tonight",
-   "artist": "The Night Shift"
-  },
   {
    "at": "2026-10-27T11:18:30+00:00",
    "seconds": 97.0,
@@ -1096,9 +1090,26 @@
    "seconds": 97.0,
    "title": "Heartbeat Again",
    "artist": "The Night Shift"
+  },
+  {
+   "at": "2026-10-27T17:16:22+00:00",
+   "seconds": 95.0,
+   "title": "Highway Tonight",
+   "artist": "The Velvet Hours"
+  },
+  {
+   "at": "2026-10-27T17:17:57+00:00",
+   "seconds": 115.0,
+   "title": "Summer Dreams",
+   "artist": "The Satellites"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-27T11:16:08+00:00",
+   "title": "Saturday Tonight",
+   "artist": "The Night Shift"
+  },
   {
    "at": "2026-10-27T11:13:45+00:00",
    "title": "Neon Dreams",
@@ -1143,11 +1154,6 @@
    "at": "2026-10-27T10:57:57+00:00",
    "title": "Summer Dreams",
    "artist": "The Satellites"
-  },
-  {
-   "at": "2026-10-27T10:56:22+00:00",
-   "title": "Highway Tonight",
-   "artist": "The Velvet Hours"
   }
  ]
 }
