@@ -1,46 +1,10 @@
 {
  "station": "New station",
  "slug": "new-station",
- "updated": "2026-10-27T08:41:14+00:00",
+ "updated": "2026-10-27T08:53:36+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-10-27T08:41:16+00:00",
-   "seconds": 143.0,
-   "title": "Velvet Train",
-   "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-27T08:43:39+00:00",
-   "seconds": 148.0,
-   "title": "Moonlight Serenade",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-27T08:46:07+00:00",
-   "seconds": 116.0,
-   "title": "Rainy Serenade",
-   "artist": "Ruby Lane"
-  },
-  {
-   "at": "2026-10-27T08:48:03+00:00",
-   "seconds": 85.0,
-   "title": "Rainy Tonight",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-27T08:49:28+00:00",
-   "seconds": 107.0,
-   "title": "Rainy Lights",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-27T08:51:15+00:00",
-   "seconds": 143.0,
-   "title": "Neon Dreams",
-   "artist": "Ruby Lane"
-  },
   {
    "at": "2026-10-27T08:53:38+00:00",
    "seconds": 142.0,
@@ -1096,9 +1060,75 @@
    "seconds": 148.0,
    "title": "Moonlight Serenade",
    "artist": "Clara Vance"
+  },
+  {
+   "at": "2026-10-27T14:42:22+00:00",
+   "seconds": 116.0,
+   "title": "Rainy Serenade",
+   "artist": "Ruby Lane"
+  },
+  {
+   "at": "2026-10-27T14:44:18+00:00",
+   "seconds": 85.0,
+   "title": "Rainy Tonight",
+   "artist": "Clara Vance"
+  },
+  {
+   "at": "2026-10-27T14:45:43+00:00",
+   "seconds": 107.0,
+   "title": "Rainy Lights",
+   "artist": "Clara Vance"
+  },
+  {
+   "at": "2026-10-27T14:47:30+00:00",
+   "seconds": 143.0,
+   "title": "Neon Dreams",
+   "artist": "Ruby Lane"
+  },
+  {
+   "at": "2026-10-27T14:49:53+00:00",
+   "seconds": 142.0,
+   "title": "Saturday Tonight",
+   "artist": "The Night Shift"
+  },
+  {
+   "at": "2026-10-27T14:52:15+00:00",
+   "seconds": 97.0,
+   "title": "Heartbeat Again",
+   "artist": "The Night Shift"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-27T08:51:15+00:00",
+   "title": "Neon Dreams",
+   "artist": "Ruby Lane"
+  },
+  {
+   "at": "2026-10-27T08:49:28+00:00",
+   "title": "Rainy Lights",
+   "artist": "Clara Vance"
+  },
+  {
+   "at": "2026-10-27T08:48:03+00:00",
+   "title": "Rainy Tonight",
+   "artist": "Clara Vance"
+  },
+  {
+   "at": "2026-10-27T08:46:07+00:00",
+   "title": "Rainy Serenade",
+   "artist": "Ruby Lane"
+  },
+  {
+   "at": "2026-10-27T08:43:39+00:00",
+   "title": "Moonlight Serenade",
+   "artist": "Clara Vance"
+  },
+  {
+   "at": "2026-10-27T08:41:16+00:00",
+   "title": "Velvet Train",
+   "artist": "Northern Lights Orchestra"
+  },
   {
    "at": "2026-10-27T08:38:51+00:00",
    "title": "Velvet Groove",
@@ -1118,36 +1148,6 @@
    "at": "2026-10-27T08:33:52+00:00",
    "title": "Highway Tonight",
    "artist": "The Velvet Hours"
-  },
-  {
-   "at": "2026-10-27T08:32:15+00:00",
-   "title": "Heartbeat Again",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-27T08:29:53+00:00",
-   "title": "Saturday Tonight",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-27T08:27:30+00:00",
-   "title": "Neon Dreams",
-   "artist": "Ruby Lane"
-  },
-  {
-   "at": "2026-10-27T08:25:43+00:00",
-   "title": "Rainy Lights",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-27T08:24:18+00:00",
-   "title": "Rainy Tonight",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-27T08:22:22+00:00",
-   "title": "Rainy Serenade",
-   "artist": "Ruby Lane"
   }
  ]
 }
