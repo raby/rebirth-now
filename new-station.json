@@ -1,34 +1,10 @@
 {
  "station": "New station",
  "slug": "new-station",
- "updated": "2026-10-27T11:18:28+00:00",
+ "updated": "2026-10-27T11:26:06+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-10-27T11:18:30+00:00",
-   "seconds": 97.0,
-   "title": "Heartbeat Again",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-27T11:20:07+00:00",
-   "seconds": 95.0,
-   "title": "Highway Tonight",
-   "artist": "The Velvet Hours"
-  },
-  {
-   "at": "2026-10-27T11:21:42+00:00",
-   "seconds": 115.0,
-   "title": "Summer Dreams",
-   "artist": "The Satellites"
-  },
-  {
-   "at": "2026-10-27T11:23:37+00:00",
-   "seconds": 89.0,
-   "title": "Paradise Dreams",
-   "artist": "Northern Lights Orchestra"
-  },
   {
    "at": "2026-10-27T11:25:06+00:00",
    "seconds": 145.0,
@@ -1102,9 +1078,52 @@
    "seconds": 115.0,
    "title": "Summer Dreams",
    "artist": "The Satellites"
+  },
+  {
+   "at": "2026-10-27T17:19:52+00:00",
+   "seconds": 89.0,
+   "title": "Paradise Dreams",
+   "artist": "Northern Lights Orchestra"
+  },
+  {
+   "at": "2026-10-27T17:21:21+00:00",
+   "seconds": 145.0,
+   "title": "Velvet Groove",
+   "artist": "Johnny Arden"
+  },
+  {
+   "at": "2026-10-27T17:23:46+00:00",
+   "seconds": 143.0,
+   "title": "Velvet Train",
+   "artist": "Northern Lights Orchestra"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-27T11:25:06+00:00",
+   "title": "Velvet Groove",
+   "artist": "Johnny Arden"
+  },
+  {
+   "at": "2026-10-27T11:23:37+00:00",
+   "title": "Paradise Dreams",
+   "artist": "Northern Lights Orchestra"
+  },
+  {
+   "at": "2026-10-27T11:21:42+00:00",
+   "title": "Summer Dreams",
+   "artist": "The Satellites"
+  },
+  {
+   "at": "2026-10-27T11:20:07+00:00",
+   "title": "Highway Tonight",
+   "artist": "The Velvet Hours"
+  },
+  {
+   "at": "2026-10-27T11:18:30+00:00",
+   "title": "Heartbeat Again",
+   "artist": "The Night Shift"
+  },
   {
    "at": "2026-10-27T11:16:08+00:00",
    "title": "Saturday Tonight",
@@ -1129,31 +1148,6 @@
    "at": "2026-10-27T11:08:37+00:00",
    "title": "Rainy Serenade",
    "artist": "Ruby Lane"
-  },
-  {
-   "at": "2026-10-27T11:06:09+00:00",
-   "title": "Moonlight Serenade",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-27T11:03:46+00:00",
-   "title": "Velvet Train",
-   "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-27T11:01:21+00:00",
-   "title": "Velvet Groove",
-   "artist": "Johnny Arden"
-  },
-  {
-   "at": "2026-10-27T10:59:52+00:00",
-   "title": "Paradise Dreams",
-   "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-27T10:57:57+00:00",
-   "title": "Summer Dreams",
-   "artist": "The Satellites"
   }
  ]
 }
