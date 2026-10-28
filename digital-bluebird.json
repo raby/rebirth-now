@@ -1,28 +1,10 @@
 {
  "station": "Digital Bluebird",
  "slug": "digital-bluebird",
- "updated": "2026-10-28T07:44:40+00:00",
+ "updated": "2026-10-28T07:55:42+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-10-28T07:44:42+00:00",
-   "seconds": 172.0,
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-28T07:47:34+00:00",
-   "seconds": 226.0,
-   "title": "Skylark Stereo",
-   "artist": "Skylark Stereo"
-  },
-  {
-   "at": "2026-10-28T07:51:20+00:00",
-   "seconds": 263.0,
-   "title": "Nightingale Night Shift",
-   "artist": "The Night Owls Collective"
-  },
   {
    "at": "2026-10-28T07:55:43+00:00",
    "seconds": 181.0,
@@ -616,9 +598,42 @@
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
+  },
+  {
+   "at": "2026-10-28T13:47:37+00:00",
+   "seconds": 195.0,
+   "title": "Thrush on the Treble",
+   "artist": "Thrush & Treble"
+  },
+  {
+   "at": "2026-10-28T13:50:52+00:00",
+   "seconds": 248.0,
+   "title": "Bluebird Rebirth",
+   "artist": "The Digital Bluebirds"
+  },
+  {
+   "at": "2026-10-28T13:55:00+00:00",
+   "seconds": 214.0,
+   "title": "Dawn Chorus on 98.4",
+   "artist": "The Digital Bluebirds"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-28T07:51:20+00:00",
+   "title": "Nightingale Night Shift",
+   "artist": "The Night Owls Collective"
+  },
+  {
+   "at": "2026-10-28T07:47:34+00:00",
+   "title": "Skylark Stereo",
+   "artist": "Skylark Stereo"
+  },
+  {
+   "at": "2026-10-28T07:44:42+00:00",
+   "title": "Cuckoo Clock Radio",
+   "artist": "Cuckoo Static"
+  },
   {
    "at": "2026-10-28T07:41:24+00:00",
    "title": "Blackbird FM",
@@ -653,21 +668,6 @@
    "at": "2026-10-28T07:19:27+00:00",
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-28T07:16:02+00:00",
-   "title": "Goldfinch Static",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-28T07:13:01+00:00",
-   "title": "Wren Between the Stations",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-28T07:08:38+00:00",
-   "title": "Nightingale Night Shift",
-   "artist": "The Night Owls Collective"
   }
  ]
 }
