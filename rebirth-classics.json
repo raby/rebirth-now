@@ -1,60 +1,10 @@
 {
  "station": "Rebirth Classics",
  "slug": "rebirth-classics",
- "updated": "2026-10-27T17:15:08+00:00",
+ "logo": null,
+ "updated": "2026-10-28T21:42:56+00:00",
  "on_air": false,
  "live": null,
  "items": [],
- "recent": [
-  {
-   "at": "2026-10-26T22:26:59+00:00",
-   "title": "Velvet Train",
-   "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-26T22:24:40+00:00",
-   "title": "Velvet Groove",
-   "artist": "Johnny Arden"
-  },
-  {
-   "at": "2026-10-26T22:20:03+00:00",
-   "title": "Paradise Dreams",
-   "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-26T22:18:14+00:00",
-   "title": "Summer Dreams",
-   "artist": "The Satellites"
-  },
-  {
-   "at": "2026-10-26T22:17:31+00:00",
-   "title": "Summer Dreams",
-   "artist": "The Satellites"
-  },
-  {
-   "at": "2026-10-26T22:16:02+00:00",
-   "title": "Highway Tonight",
-   "artist": "The Velvet Hours"
-  },
-  {
-   "at": "2026-10-26T22:09:22+00:00",
-   "title": "Heartbeat Again",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-26T22:07:06+00:00",
-   "title": "Saturday Tonight",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-26T22:05:20+00:00",
-   "title": "Neon Dreams",
-   "artist": "Ruby Lane"
-  },
-  {
-   "at": "2026-10-26T21:59:30+00:00",
-   "title": "Rainy Lights",
-   "artist": "Clara Vance"
-  }
- ]
+ "recent": []
 }
