@@ -2,828 +2,635 @@
  "station": "Digital Bluebird",
  "slug": "digital-bluebird",
  "logo": null,
- "updated": "2026-10-29T01:31:14+00:00",
+ "updated": "2026-10-29T01:34:29+00:00",
  "on_air": true,
  "live": null,
  "items": [
   {
-   "at": "2026-10-28T23:30:43+00:00",
-   "seconds": 198.0,
-   "title": "Blackbird FM",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-28T23:34:01+00:00",
+   "at": "2026-10-29T01:31:17+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-28T23:36:53+00:00",
+   "at": "2026-10-29T01:34:09+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-28T23:40:39+00:00",
+   "at": "2026-10-29T01:37:55+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-28T23:45:02+00:00",
+   "at": "2026-10-29T01:42:18+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-28T23:48:03+00:00",
+   "at": "2026-10-29T01:45:19+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-28T23:51:28+00:00",
+   "at": "2026-10-29T01:48:44+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-28T23:55:20+00:00",
+   "at": "2026-10-29T01:52:36+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-28T23:58:35+00:00",
+   "at": "2026-10-29T01:55:51+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T00:02:43+00:00",
+   "at": "2026-10-29T01:59:59+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T00:06:17+00:00",
+   "at": "2026-10-29T02:03:33+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T00:09:24+00:00",
+   "at": "2026-10-29T02:06:40+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T00:13:25+00:00",
+   "at": "2026-10-29T02:10:41+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T00:16:43+00:00",
+   "at": "2026-10-29T02:13:59+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T00:19:35+00:00",
+   "at": "2026-10-29T02:16:51+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T00:23:21+00:00",
+   "at": "2026-10-29T02:20:37+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T00:27:44+00:00",
+   "at": "2026-10-29T02:25:00+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T00:30:45+00:00",
+   "at": "2026-10-29T02:28:01+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T00:34:10+00:00",
+   "at": "2026-10-29T02:31:26+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T00:38:02+00:00",
+   "at": "2026-10-29T02:35:18+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-29T00:41:17+00:00",
+   "at": "2026-10-29T02:38:33+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T00:45:25+00:00",
+   "at": "2026-10-29T02:42:41+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T00:48:59+00:00",
+   "at": "2026-10-29T02:46:15+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T00:52:06+00:00",
+   "at": "2026-10-29T02:49:22+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T00:56:07+00:00",
+   "at": "2026-10-29T02:53:23+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T00:59:25+00:00",
+   "at": "2026-10-29T02:56:41+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T01:02:17+00:00",
+   "at": "2026-10-29T02:59:33+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T01:06:03+00:00",
+   "at": "2026-10-29T03:03:19+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T01:10:26+00:00",
+   "at": "2026-10-29T03:07:42+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T01:13:27+00:00",
+   "at": "2026-10-29T03:10:43+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T01:16:52+00:00",
+   "at": "2026-10-29T03:14:08+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T01:20:44+00:00",
+   "at": "2026-10-29T03:18:00+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-29T01:23:59+00:00",
+   "at": "2026-10-29T03:21:15+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T01:28:07+00:00",
+   "at": "2026-10-29T03:25:23+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T01:31:41+00:00",
+   "at": "2026-10-29T03:28:57+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T01:34:48+00:00",
+   "at": "2026-10-29T03:32:04+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T01:38:49+00:00",
+   "at": "2026-10-29T03:36:05+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T01:42:07+00:00",
+   "at": "2026-10-29T03:39:23+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T01:44:59+00:00",
+   "at": "2026-10-29T03:42:15+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T01:48:45+00:00",
+   "at": "2026-10-29T03:46:01+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T01:53:08+00:00",
+   "at": "2026-10-29T03:50:24+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T01:56:09+00:00",
+   "at": "2026-10-29T03:53:25+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T01:59:34+00:00",
+   "at": "2026-10-29T03:56:50+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T02:03:26+00:00",
+   "at": "2026-10-29T04:00:42+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-29T02:06:41+00:00",
+   "at": "2026-10-29T04:03:57+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T02:10:49+00:00",
+   "at": "2026-10-29T04:08:05+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T02:14:23+00:00",
+   "at": "2026-10-29T04:11:39+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T02:17:30+00:00",
+   "at": "2026-10-29T04:14:46+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T02:21:31+00:00",
+   "at": "2026-10-29T04:18:47+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T02:24:49+00:00",
+   "at": "2026-10-29T04:22:05+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T02:27:41+00:00",
+   "at": "2026-10-29T04:24:57+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T02:31:27+00:00",
+   "at": "2026-10-29T04:28:43+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T02:35:50+00:00",
+   "at": "2026-10-29T04:33:06+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T02:38:51+00:00",
+   "at": "2026-10-29T04:36:07+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T02:42:16+00:00",
+   "at": "2026-10-29T04:39:32+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T02:46:08+00:00",
+   "at": "2026-10-29T04:43:24+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-29T02:49:23+00:00",
+   "at": "2026-10-29T04:46:39+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T02:53:31+00:00",
+   "at": "2026-10-29T04:50:47+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T02:57:05+00:00",
+   "at": "2026-10-29T04:54:21+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T03:00:12+00:00",
+   "at": "2026-10-29T04:57:28+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T03:04:13+00:00",
+   "at": "2026-10-29T05:01:29+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T03:07:31+00:00",
+   "at": "2026-10-29T05:04:47+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T03:10:23+00:00",
+   "at": "2026-10-29T05:07:39+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T03:14:09+00:00",
+   "at": "2026-10-29T05:11:25+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T03:18:32+00:00",
+   "at": "2026-10-29T05:15:48+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T03:21:33+00:00",
+   "at": "2026-10-29T05:18:49+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T03:24:58+00:00",
+   "at": "2026-10-29T05:22:14+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T03:28:50+00:00",
+   "at": "2026-10-29T05:26:06+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-29T03:32:05+00:00",
+   "at": "2026-10-29T05:29:21+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T03:36:13+00:00",
+   "at": "2026-10-29T05:33:29+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T03:39:47+00:00",
+   "at": "2026-10-29T05:37:03+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T03:42:54+00:00",
+   "at": "2026-10-29T05:40:10+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T03:46:55+00:00",
+   "at": "2026-10-29T05:44:11+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T03:50:13+00:00",
+   "at": "2026-10-29T05:47:29+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T03:53:05+00:00",
+   "at": "2026-10-29T05:50:21+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T03:56:51+00:00",
+   "at": "2026-10-29T05:54:07+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T04:01:14+00:00",
+   "at": "2026-10-29T05:58:30+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T04:04:15+00:00",
+   "at": "2026-10-29T06:01:31+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T04:07:40+00:00",
+   "at": "2026-10-29T06:04:56+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T04:11:32+00:00",
+   "at": "2026-10-29T06:08:48+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-29T04:14:47+00:00",
+   "at": "2026-10-29T06:12:03+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T04:18:55+00:00",
+   "at": "2026-10-29T06:16:11+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T04:22:29+00:00",
+   "at": "2026-10-29T06:19:45+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T04:25:36+00:00",
+   "at": "2026-10-29T06:22:52+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T04:29:37+00:00",
+   "at": "2026-10-29T06:26:53+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T04:32:55+00:00",
+   "at": "2026-10-29T06:30:11+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T04:35:47+00:00",
+   "at": "2026-10-29T06:33:03+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T04:39:33+00:00",
+   "at": "2026-10-29T06:36:49+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T04:43:56+00:00",
+   "at": "2026-10-29T06:41:12+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T04:46:57+00:00",
+   "at": "2026-10-29T06:44:13+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T04:50:22+00:00",
+   "at": "2026-10-29T06:47:38+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T04:54:14+00:00",
+   "at": "2026-10-29T06:51:30+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
   },
   {
-   "at": "2026-10-29T04:57:29+00:00",
+   "at": "2026-10-29T06:54:45+00:00",
    "seconds": 248.0,
    "title": "Bluebird Rebirth",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T05:01:37+00:00",
+   "at": "2026-10-29T06:58:53+00:00",
    "seconds": 214.0,
    "title": "Dawn Chorus on 98.4",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T05:05:11+00:00",
+   "at": "2026-10-29T07:02:27+00:00",
    "seconds": 187.0,
    "title": "Signal in the Hedgerow",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T05:08:18+00:00",
+   "at": "2026-10-29T07:05:34+00:00",
    "seconds": 241.0,
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T05:12:19+00:00",
+   "at": "2026-10-29T07:09:35+00:00",
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T05:15:37+00:00",
+   "at": "2026-10-29T07:12:53+00:00",
    "seconds": 172.0,
    "title": "Cuckoo Clock Radio",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T05:18:29+00:00",
+   "at": "2026-10-29T07:15:45+00:00",
    "seconds": 226.0,
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
   },
   {
-   "at": "2026-10-29T05:22:15+00:00",
+   "at": "2026-10-29T07:19:31+00:00",
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
   },
   {
-   "at": "2026-10-29T05:26:38+00:00",
+   "at": "2026-10-29T07:23:54+00:00",
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
   },
   {
-   "at": "2026-10-29T05:29:39+00:00",
+   "at": "2026-10-29T07:26:55+00:00",
    "seconds": 205.0,
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
   },
   {
-   "at": "2026-10-29T05:33:04+00:00",
+   "at": "2026-10-29T07:30:20+00:00",
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
   },
   {
-   "at": "2026-10-29T05:36:56+00:00",
+   "at": "2026-10-29T07:34:12+00:00",
    "seconds": 195.0,
    "title": "Thrush on the Treble",
    "artist": "Thrush & Treble"
-  },
-  {
-   "at": "2026-10-29T05:40:11+00:00",
-   "seconds": 248.0,
-   "title": "Bluebird Rebirth",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T05:44:19+00:00",
-   "seconds": 214.0,
-   "title": "Dawn Chorus on 98.4",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T05:47:53+00:00",
-   "seconds": 187.0,
-   "title": "Signal in the Hedgerow",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T05:51:00+00:00",
-   "seconds": 241.0,
-   "title": "Robin on the Aerial",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T05:55:01+00:00",
-   "seconds": 198.0,
-   "title": "Blackbird FM",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T05:58:19+00:00",
-   "seconds": 172.0,
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-29T06:01:11+00:00",
-   "seconds": 226.0,
-   "title": "Skylark Stereo",
-   "artist": "Skylark Stereo"
-  },
-  {
-   "at": "2026-10-29T06:04:57+00:00",
-   "seconds": 263.0,
-   "title": "Nightingale Night Shift",
-   "artist": "The Night Owls Collective"
-  },
-  {
-   "at": "2026-10-29T06:09:20+00:00",
-   "seconds": 181.0,
-   "title": "Wren Between the Stations",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T06:12:21+00:00",
-   "seconds": 205.0,
-   "title": "Goldfinch Static",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-29T06:15:46+00:00",
-   "seconds": 232.0,
-   "title": "Starling Satellite",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T06:19:38+00:00",
-   "seconds": 195.0,
-   "title": "Thrush on the Treble",
-   "artist": "Thrush & Treble"
-  },
-  {
-   "at": "2026-10-29T06:22:53+00:00",
-   "seconds": 248.0,
-   "title": "Bluebird Rebirth",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T06:27:01+00:00",
-   "seconds": 214.0,
-   "title": "Dawn Chorus on 98.4",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T06:30:35+00:00",
-   "seconds": 187.0,
-   "title": "Signal in the Hedgerow",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T06:33:42+00:00",
-   "seconds": 241.0,
-   "title": "Robin on the Aerial",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T06:37:43+00:00",
-   "seconds": 198.0,
-   "title": "Blackbird FM",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T06:41:01+00:00",
-   "seconds": 172.0,
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-29T06:43:53+00:00",
-   "seconds": 226.0,
-   "title": "Skylark Stereo",
-   "artist": "Skylark Stereo"
-  },
-  {
-   "at": "2026-10-29T06:47:39+00:00",
-   "seconds": 263.0,
-   "title": "Nightingale Night Shift",
-   "artist": "The Night Owls Collective"
-  },
-  {
-   "at": "2026-10-29T06:52:02+00:00",
-   "seconds": 181.0,
-   "title": "Wren Between the Stations",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T06:55:03+00:00",
-   "seconds": 205.0,
-   "title": "Goldfinch Static",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-29T06:58:28+00:00",
-   "seconds": 232.0,
-   "title": "Starling Satellite",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T07:02:20+00:00",
-   "seconds": 195.0,
-   "title": "Thrush on the Treble",
-   "artist": "Thrush & Treble"
-  },
-  {
-   "at": "2026-10-29T07:05:35+00:00",
-   "seconds": 248.0,
-   "title": "Bluebird Rebirth",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T07:09:43+00:00",
-   "seconds": 214.0,
-   "title": "Dawn Chorus on 98.4",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T07:13:17+00:00",
-   "seconds": 187.0,
-   "title": "Signal in the Hedgerow",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T07:16:24+00:00",
-   "seconds": 241.0,
-   "title": "Robin on the Aerial",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T07:20:25+00:00",
-   "seconds": 198.0,
-   "title": "Blackbird FM",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T07:23:43+00:00",
-   "seconds": 172.0,
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-29T07:26:35+00:00",
-   "seconds": 226.0,
-   "title": "Skylark Stereo",
-   "artist": "Skylark Stereo"
-  },
-  {
-   "at": "2026-10-29T07:30:21+00:00",
-   "seconds": 263.0,
-   "title": "Nightingale Night Shift",
-   "artist": "The Night Owls Collective"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-28T23:30:43+00:00",
+   "title": "Blackbird FM",
+   "artist": "Wren & The Transmitters"
+  },
   {
    "at": "2026-10-28T23:26:42+00:00",
    "title": "Robin on the Aerial",
@@ -868,11 +675,6 @@
    "at": "2026-10-28T22:47:56+00:00",
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
-  },
-  {
-   "at": "2026-10-28T22:44:10+00:00",
-   "title": "Skylark Stereo",
-   "artist": "Skylark Stereo"
   }
  ]
 }
