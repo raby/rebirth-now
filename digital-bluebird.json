@@ -2,22 +2,10 @@
  "station": "Digital Bluebird",
  "slug": "digital-bluebird",
  "logo": null,
- "updated": "2026-10-29T09:57:48+00:00",
+ "updated": "2026-10-29T10:05:10+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-10-29T09:57:49+00:00",
-   "seconds": 195.0,
-   "title": "Thrush on the Treble",
-   "artist": "Thrush & Treble"
-  },
-  {
-   "at": "2026-10-29T10:01:04+00:00",
-   "seconds": 248.0,
-   "title": "Bluebird Rebirth",
-   "artist": "The Digital Bluebirds"
-  },
   {
    "at": "2026-10-29T10:05:12+00:00",
    "seconds": 214.0,
@@ -617,9 +605,31 @@
    "seconds": 198.0,
    "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
+  },
+  {
+   "at": "2026-10-29T16:00:48+00:00",
+   "seconds": 172.0,
+   "title": "Cuckoo Clock Radio",
+   "artist": "Cuckoo Static"
+  },
+  {
+   "at": "2026-10-29T16:03:40+00:00",
+   "seconds": 226.0,
+   "title": "Skylark Stereo",
+   "artist": "Skylark Stereo"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-29T10:01:04+00:00",
+   "title": "Bluebird Rebirth",
+   "artist": "The Digital Bluebirds"
+  },
+  {
+   "at": "2026-10-29T09:57:49+00:00",
+   "title": "Thrush on the Treble",
+   "artist": "Thrush & Treble"
+  },
   {
    "at": "2026-10-29T09:53:57+00:00",
    "title": "Starling Satellite",
@@ -659,16 +669,6 @@
    "at": "2026-10-29T09:29:11+00:00",
    "title": "Robin on the Aerial",
    "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-29T09:26:04+00:00",
-   "title": "Signal in the Hedgerow",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-29T09:10:52+00:00",
-   "title": "Dawn Chorus on 98.4",
-   "artist": "The Digital Bluebirds"
   }
  ]
 }
