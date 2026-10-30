@@ -2,34 +2,10 @@
  "station": "Digital Bluebird",
  "slug": "digital-bluebird",
  "logo": null,
- "updated": "2026-10-30T07:55:02+00:00",
+ "updated": "2026-10-30T08:05:44+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-10-30T07:52:27+00:00",
-   "seconds": 187.0,
-   "title": "Signal in the Hedgerow",
-   "artist": "The Digital Bluebirds"
-  },
-  {
-   "at": "2026-10-30T07:55:34+00:00",
-   "seconds": 241.0,
-   "title": "Robin on the Aerial",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-30T07:59:35+00:00",
-   "seconds": 198.0,
-   "title": "Blackbird FM",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-30T08:02:53+00:00",
-   "seconds": 172.0,
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
-  },
   {
    "at": "2026-10-30T08:05:45+00:00",
    "seconds": 226.0,
@@ -617,9 +593,47 @@
    "seconds": 263.0,
    "title": "Nightingale Night Shift",
    "artist": "The Night Owls Collective"
+  },
+  {
+   "at": "2026-10-30T13:55:30+00:00",
+   "seconds": 181.0,
+   "title": "Wren Between the Stations",
+   "artist": "Wren & The Transmitters"
+  },
+  {
+   "at": "2026-10-30T13:58:31+00:00",
+   "seconds": 205.0,
+   "title": "Goldfinch Static",
+   "artist": "Cuckoo Static"
+  },
+  {
+   "at": "2026-10-30T14:01:56+00:00",
+   "seconds": 232.0,
+   "title": "Starling Satellite",
+   "artist": "The Digital Bluebirds"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-30T08:02:53+00:00",
+   "title": "Cuckoo Clock Radio",
+   "artist": "Cuckoo Static"
+  },
+  {
+   "at": "2026-10-30T07:59:35+00:00",
+   "title": "Blackbird FM",
+   "artist": "Wren & The Transmitters"
+  },
+  {
+   "at": "2026-10-30T07:55:34+00:00",
+   "title": "Robin on the Aerial",
+   "artist": "Wren & The Transmitters"
+  },
+  {
+   "at": "2026-10-30T07:52:27+00:00",
+   "title": "Signal in the Hedgerow",
+   "artist": "The Digital Bluebirds"
+  },
   {
    "at": "2026-10-30T07:48:53+00:00",
    "title": "Dawn Chorus on 98.4",
@@ -648,26 +662,6 @@
   {
    "at": "2026-10-30T07:31:12+00:00",
    "title": "Wren Between the Stations",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-10-30T07:26:49+00:00",
-   "title": "Nightingale Night Shift",
-   "artist": "The Night Owls Collective"
-  },
-  {
-   "at": "2026-10-30T07:23:03+00:00",
-   "title": "Skylark Stereo",
-   "artist": "Skylark Stereo"
-  },
-  {
-   "at": "2026-10-30T07:20:11+00:00",
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-10-30T07:16:53+00:00",
-   "title": "Blackbird FM",
    "artist": "Wren & The Transmitters"
   }
  ]
