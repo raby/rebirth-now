@@ -2,16 +2,10 @@
  "station": "Digital Bluebird",
  "slug": "digital-bluebird",
  "logo": null,
- "updated": "2026-10-30T14:19:52+00:00",
+ "updated": "2026-10-30T14:23:53+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-10-30T14:19:53+00:00",
-   "seconds": 241.0,
-   "title": "Robin on the Aerial",
-   "artist": "Wren & The Transmitters"
-  },
   {
    "at": "2026-10-30T14:23:54+00:00",
    "seconds": 198.0,
@@ -617,9 +611,20 @@
    "seconds": 181.0,
    "title": "Wren Between the Stations",
    "artist": "Wren & The Transmitters"
+  },
+  {
+   "at": "2026-10-30T20:22:50+00:00",
+   "seconds": 205.0,
+   "title": "Goldfinch Static",
+   "artist": "Cuckoo Static"
   }
  ],
  "recent": [
+  {
+   "at": "2026-10-30T14:19:53+00:00",
+   "title": "Robin on the Aerial",
+   "artist": "Wren & The Transmitters"
+  },
   {
    "at": "2026-10-30T14:16:46+00:00",
    "title": "Signal in the Hedgerow",
@@ -664,11 +669,6 @@
    "at": "2026-10-30T13:47:21+00:00",
    "title": "Skylark Stereo",
    "artist": "Skylark Stereo"
-  },
-  {
-   "at": "2026-10-30T13:44:29+00:00",
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
   }
  ]
 }
