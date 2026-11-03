@@ -2,60 +2,9 @@
  "station": "New station",
  "slug": "new-station",
  "logo": null,
- "updated": "2026-10-28T21:42:56+00:00",
+ "updated": "2026-11-03T10:06:44+00:00",
  "on_air": false,
  "live": null,
  "items": [],
- "recent": [
-  {
-   "at": "2026-10-27T11:29:54+00:00",
-   "title": "Moonlight Serenade",
-   "artist": "Clara Vance"
-  },
-  {
-   "at": "2026-10-27T11:27:31+00:00",
-   "title": "Velvet Train",
-   "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-27T11:26:06+00:00",
-   "title": "Velvet Groove",
-   "artist": "Johnny Arden"
-  },
-  {
-   "at": "2026-10-27T11:25:06+00:00",
-   "title": "Velvet Groove",
-   "artist": "Johnny Arden"
-  },
-  {
-   "at": "2026-10-27T11:23:37+00:00",
-   "title": "Paradise Dreams",
-   "artist": "Northern Lights Orchestra"
-  },
-  {
-   "at": "2026-10-27T11:21:42+00:00",
-   "title": "Summer Dreams",
-   "artist": "The Satellites"
-  },
-  {
-   "at": "2026-10-27T11:20:07+00:00",
-   "title": "Highway Tonight",
-   "artist": "The Velvet Hours"
-  },
-  {
-   "at": "2026-10-27T11:18:30+00:00",
-   "title": "Heartbeat Again",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-27T11:16:08+00:00",
-   "title": "Saturday Tonight",
-   "artist": "The Night Shift"
-  },
-  {
-   "at": "2026-10-27T11:13:45+00:00",
-   "title": "Neon Dreams",
-   "artist": "Ruby Lane"
-  }
- ]
+ "recent": []
 }
