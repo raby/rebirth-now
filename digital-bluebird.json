@@ -2,22 +2,10 @@
  "station": "Digital Bluebird",
  "slug": "digital-bluebird",
  "logo": null,
- "updated": "2026-11-09T10:18:15+00:00",
+ "updated": "2026-11-09T10:22:57+00:00",
  "on_air": true,
  "live": null,
  "items": [
-  {
-   "at": "2026-11-09T10:16:20+00:00",
-   "seconds": 172.0,
-   "title": "Cuckoo Clock Radio",
-   "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-11-09T10:19:12+00:00",
-   "seconds": 226.0,
-   "title": "Skylark Stereo",
-   "artist": "Skylark Stereo"
-  },
   {
    "at": "2026-11-09T10:22:58+00:00",
    "seconds": 263.0,
@@ -617,9 +605,31 @@
    "seconds": 232.0,
    "title": "Starling Satellite",
    "artist": "The Digital Bluebirds"
+  },
+  {
+   "at": "2026-11-09T16:19:15+00:00",
+   "seconds": 195.0,
+   "title": "Thrush on the Treble",
+   "artist": "Thrush & Treble"
+  },
+  {
+   "at": "2026-11-09T16:22:30+00:00",
+   "seconds": 248.0,
+   "title": "Bluebird Rebirth",
+   "artist": "The Digital Bluebirds"
   }
  ],
  "recent": [
+  {
+   "at": "2026-11-09T10:19:12+00:00",
+   "title": "Skylark Stereo",
+   "artist": "Skylark Stereo"
+  },
+  {
+   "at": "2026-11-09T10:16:20+00:00",
+   "title": "Cuckoo Clock Radio",
+   "artist": "Cuckoo Static"
+  },
   {
    "at": "2026-11-09T10:13:02+00:00",
    "title": "Blackbird FM",
@@ -659,16 +669,6 @@
    "at": "2026-11-09T09:47:40+00:00",
    "title": "Goldfinch Static",
    "artist": "Cuckoo Static"
-  },
-  {
-   "at": "2026-11-09T09:44:39+00:00",
-   "title": "Wren Between the Stations",
-   "artist": "Wren & The Transmitters"
-  },
-  {
-   "at": "2026-11-09T09:40:16+00:00",
-   "title": "Nightingale Night Shift",
-   "artist": "The Night Owls Collective"
   }
  ]
 }
